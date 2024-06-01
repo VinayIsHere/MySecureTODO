@@ -1,0 +1,22 @@
+{
+  "name": "todofe",
+  "version": "1.0.0",
+  "description": "contains the UI code for todo",
+  "main": "src/mainApp.js",
+  "scripts": {
+    "start": "electron --inspect=5858 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinayIsHere/MySecureTODO.git"
+  },
+  "author": "vinay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinayIsHere/MySecureTODO/issues"
+  },
+  "homepage": "https://github.com/VinayIsHere/MySecureTODO#readme",
+  "dependencies": {
+    "electron": "^30.0.9"
+  }
+}
